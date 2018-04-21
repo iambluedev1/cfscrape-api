@@ -1,6 +1,6 @@
 # CfScrape Api
 
-An Restfull api to bypass Cloudflare's anti-bot and get the page contents for webscraping app.
+A Restful api to bypass Cloudflare's anti-bot and get the page contents for webscraping app.
 > A java implementation of this api can be viewed [here](https://github.com/iambluedev1/cfscrape-java).
 
 ### Install
