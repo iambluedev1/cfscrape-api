@@ -22,7 +22,7 @@ app.use(function(req, res, next) {
 	next();
 });
 
-app.post('/wait', cache('12 hours'), function(req, res){
+app.post('/wait', function(req, res){
     var url = req.body.url;
     if(url == null){
         res.send({
